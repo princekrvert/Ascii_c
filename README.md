@@ -17,4 +17,12 @@
 
 ```
 
+***
+### Termux look
 
+![20201225_051955](https://user-images.githubusercontent.com/56459297/103111424-d6ddac80-4672-11eb-9e49-72c52f8aa588.jpg)
+***
+#### Please subscribe our youtube channel..
+[Youtube](https://m.youtube.com/c/Princeweb)
+
+[Inatagram](https://instagram.com/sirprincekrvert)
