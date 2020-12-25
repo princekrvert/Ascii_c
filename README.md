@@ -13,7 +13,7 @@
 3. git clone https://github.com/princekrvert/Ascii_c.git
 4. cd Ascii_c 
 4. chmod +x Ascii_c.py
-5. ./Ascii_c.py
+5. ./Ascii_C.py
 
 ```
 
