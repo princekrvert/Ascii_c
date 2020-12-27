@@ -25,4 +25,4 @@
 #### Please subscribe our youtube channel..
 [Youtube](https://m.youtube.com/c/Princeweb)
 
-[Inatagram](https://instagram.com/sirprincekrvert)
+[Instagram](https://instagram.com/sirprincekrvert)
