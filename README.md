@@ -5,7 +5,7 @@
 
 ****
 
-## Installatiin
+## Installation
 
 ```
 1. apt-get install python;apt-get install python2
